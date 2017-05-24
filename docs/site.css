@@ -41,13 +41,3 @@ ul {
   font-family: 'BenchNine', sans-serif;
   font-size: 20px;
 }
-
-.thin-black-border {
-  position: absolute;
-  right: 0px;
-  top: 300px;
-  left: 800px;
-  border-color: black;
-  border-radius: 10px;
-  border-width: 10px;
- }
