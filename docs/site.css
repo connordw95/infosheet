@@ -1,11 +1,11 @@
 div {
-  background-color: #BB1F1F;
+  background-color: tan;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
   border: 10px solid #072A02;
-  color: silver;
+  color: black;
   border-radius: 10px;
  }
 
